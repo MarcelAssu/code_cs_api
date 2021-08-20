@@ -1,0 +1,25 @@
+{
+  "name": "code_cs_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcelAssu/code_cs_api.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "express",
+    "pg"
+  ],
+  "author": "Marcel Assuncao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcelAssu/code_cs_api/issues"
+  },
+  "homepage": "https://github.com/MarcelAssu/code_cs_api#readme"
+}
